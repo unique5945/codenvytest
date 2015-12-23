@@ -1,0 +1,5 @@
+app_name=codenvytest
+
+loggingRoot=/home/admin/logs
+
+run_mode=NORMAL
